@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cronòmetre negre</string>
+    <string name="instructions_title">Hola!</string>
+    <string name="instructions_text">Toca la pantalla per començar. Manté apretat per posar el cronòmetre a 0.</string>
+</resources>

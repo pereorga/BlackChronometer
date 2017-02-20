@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cronómetro negro</string>
+    <string name="instructions_title">Hola!</string>
+    <string name="instructions_text">Toca la pantalla para empezar. Mantén pulsado para resetear.</string>
+</resources>

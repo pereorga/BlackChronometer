@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Black Chronometer</string>
+    <string name="instructions_title">Welcome to Black Chronometer</string>
+    <string name="instructions_text">Touch once to start/stop. Hold to reset.</string>
+</resources>
